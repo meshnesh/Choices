@@ -95,6 +95,11 @@ header{
     float: right;
     color: #ddd;
 }
+#meatProducts, #vegetableProducts, #fruitProducts, #soapProducts
+, #clothProducts, #detergentProducts, #perfumesProducts, #lotionProducts
+, #facialProducts{
+	display: none;
+}
 
 
 
