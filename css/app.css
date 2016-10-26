@@ -7,7 +7,9 @@ div.underlay:hover {    opacity:1; height:100%;}
 body{
   font-family: "futura", arial;
 }
-
+header{
+	    background: #333;
+}
 .fader{
     position: relative;
     padding-top: 60%;
@@ -82,3 +84,18 @@ body{
 .fader .pager_list li.active{
   opacity: 1;
 }
+
+.large-3{
+	    height: 30em;
+}
+.asnt{
+	text-align: right;
+}
+#cssmenu > ul > .asnt{
+    float: right;
+    color: #ddd;
+}
+
+
+
+

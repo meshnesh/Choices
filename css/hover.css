@@ -39,6 +39,7 @@ nav {
 	background: #333;
 	height: 6em;
 	padding-top: 1.5%;
+	    z-index: 1;
 }
 
 #cssmenu > ul > li {
