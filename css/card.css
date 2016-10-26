@@ -247,26 +247,36 @@ body
 {
     width: 100%;
     max-width: 100% !important;
-    text-align: center;
-    border-top: 5px solid #ececec;
-    background: #4b4a46;
     height: 5em;
     padding-top: 2%;
+
+    text-align: center;
+
+    border-top: 5px solid #ececec;
+    background: #4b4a46;
 }
 footer a
 {
     color: #5db530;
 }
 /*FULL*/
-.mellow{
-      text-align: center;
+.mellow
+{
+    height: 7.1em;
+
+    text-align: center;
+
     border: 1px solid #757575;
-   
 }
-.prices{
-  border-right: 1px solid #757575;
-  border-top: 1px solid #757575;
+.prices
+{
+    border-right: 1px solid #757575;
 }
-#fullCard{
-      height: 36em;
+#fullCard
+{
+    height: 36em;
+}
+.whle
+{
+    border-top: 1px solid #757575;
 }
