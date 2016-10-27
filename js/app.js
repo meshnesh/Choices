@@ -1,3 +1,4 @@
+
 $('#promoti, #toddy').click(function () {
 	$('#promotion').css('display', 'block');
 	$('#vegetableProducts').css('display', 'none');

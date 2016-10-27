@@ -1,10 +1,3 @@
-/*
-* EASYFADER - An Ultralight Fading Slideshow For Responsive Layouts
-* Version: 1.0
-* Author: Patrick Kunka
-* Copyright 2012-2013 Patrick Kunka
-*/
-
 (function($){
 	function prefix(el){
 		var prefixes = ["Webkit", "Moz", "O", "ms"];
@@ -91,7 +84,7 @@
 				};
 				for(var i = 0; i < totalSlides; i++){
 					$pagerList
-						.append('<li class="page" data-target="'+i+'">'+i+'</li>');
+						.append('<li class="page" data-target="'+i+'">'+'</li>');
 				};
 				$container.find('.page').bind('click',function(){
 					var target = $(this).attr('data-target');

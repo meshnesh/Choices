@@ -17,9 +17,9 @@ body{
     opacity: 0;
 }
  
-.fader img.slide{
+/*.fader img.slide{
     height: auto;
-}
+}*/
 
 .fader .prev,
 .fader .next{
@@ -64,7 +64,7 @@ body{
   width: 15px;
   height: 15px;
   margin: 0 7px;
-  background: #fff;
+  background: #5db530;
   opacity: .7;
   text-indent: -999px;
   border-radius: 999px;
@@ -75,10 +75,10 @@ body{
 .fader .pager_list li:hover,
 .fader .pager_list li.active{
   opacity: 1;
-}
-.page{
+  background: #5db530;
   color: #5db530;
 }
+
 #promotion,
 #meatProducts,
 #vegetableProducts,
