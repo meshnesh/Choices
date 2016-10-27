@@ -31,7 +31,8 @@ body
 }
 header
 {
-    background: #333;
+        background: #4b4a46;
+        margin-bottom: 2%;
 }
 .fader
 {
@@ -157,3 +158,25 @@ header
 {
     display: none;
 }
+
+.upper{
+    text-align: center;
+    background-color: whitesmoke;
+}
+.fa-lightbulb-o, .fa-search, .fa-shopping-cart{
+    padding-top: 5%;
+    color: #5db530;
+}
+.intro{
+    padding-top: 2%;
+    color: #757575;
+    padding-bottom: 5%;
+}
+.promotion{
+    margin-top: -30%;
+}
+
+
+
+
+

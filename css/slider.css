@@ -11,7 +11,7 @@ body{
 .fader .slide{
     position: absolute;
     width: 100%;
-    height: 100%;
+    height: 50%;
     top: 0;
     z-index: 1;
     opacity: 0;
@@ -29,7 +29,7 @@ body{
   width: 50px;
   font-size: 100px;
   text-align: center;
-  color: #fff;
+  color: #5db530;
   top: 50%;
   left: 0;
   z-index: 4;
@@ -50,11 +50,11 @@ body{
 }
 
 .fader .pager_list{
-  position: absolute;
+  /*position: absolute;*/
   width: 100%;
   height: 40px;
   line-height: 40px;
-  bottom: 0;
+  /*bottom: 0;*/
   text-align: center;
   z-index: 4;
 }
@@ -75,4 +75,19 @@ body{
 .fader .pager_list li:hover,
 .fader .pager_list li.active{
   opacity: 1;
+}
+.page{
+  color: #5db530;
+}
+#promotion,
+#meatProducts,
+#vegetableProducts,
+#fruitProducts,
+#soapProducts,
+#clothProducts,
+#detergentProducts,
+#perfumesProducts,
+#lotionProducts,
+#facialProducts{
+    margin-top: -30%;
 }

@@ -116,7 +116,7 @@ $('#oily').click(function () {
 });
 
 $('#facy').click(function () {
-	$('#facy').css('display', 'block');
+	$('#facialProducts').css('display', 'block');
 	$('#promotion').css('display', 'none');
 	$('#vegetableProducts').css('display', 'none');
 	$('#fruitProducts').css('display', 'none');
