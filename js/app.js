@@ -77,18 +77,7 @@ $('#clothy').click(function () {
 	$('#facialProducts').css('display', 'none');
 });
 
-$('#detery').click(function () {
-	$('#detergentProducts').css('display', 'block');
-	$('#promotion').css('display', 'none');
-	$('#vegetableProducts').css('display', 'none');
-	$('#fruitProducts').css('display', 'none');
-	$('#meatProducts').css('display', 'none');
-	$('#clothProducts').css('display', 'none');
-	$('#soapProducts').css('display', 'none');
-	$('#perfumesProducts').css('display', 'none');
-	$('#lotionProducts').css('display', 'none');
-	$('#facialProducts').css('display', 'none');
-});
+
 
 $('#perfy').click(function () {
 	$('#perfumesProducts').css('display', 'block');
@@ -128,3 +117,38 @@ $('#facy').click(function () {
 	$('#lotionProducts').css('display', 'none');
 	$('#detergentProducts').css('display', 'none');
 });
+
+// DETAIL CLICK
+// $('#animaly').click(function () {
+// 	$('#beast').css('display', 'block');
+// 	$('#facialProducts').css('display', 'none');
+// 	$('#promotion').css('display', 'none');
+// 	$('#vegetableProducts').css('display', 'none');
+// 	$('#fruitProducts').css('display', 'none');
+// 	$('#meatProducts').css('display', 'none');
+// 	$('#clothProducts').css('display', 'none');
+// 	$('#soapProducts').css('display', 'none');
+// 	$('#perfumesProducts').css('display', 'none');
+// 	$('#lotionProducts').css('display', 'none');
+// 	$('#detergentProducts').css('display', 'none');
+// });
+
+
+
+
+
+// FOOD #animaly(beast) , #birdy(dragon), prty(otherful), 
+// VEGETETABLES grainy(plant), crealy(cry), othry(tehe), 
+// FRUITS taminy(puty), aciy(cdic), mellon(loen)
+
+// SANITAION bathy, ishy, diy 
+// CLOTH powdy, soaky, infecty 
+// DETERGENTS surfy, clth, dishy
+
+// BODY mnly, wmny,uny, 
+// OILS manly, chicky, baby 
+// FACIAL scara, foundy, linny
+
+
+
+
